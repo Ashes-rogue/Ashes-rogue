@@ -17,4 +17,3 @@ I'm Ashes-rogue, and I've been passionate about coding since 7th grade. Although
 
 
 some of my certificates related to the field:
-
