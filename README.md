@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there!  
+I'm Ashes-rogue, and I've been passionate about coding since 7th grade. Although I’ve taken my time expanding my skillset, coding has always been a hobby I love. Now, I’m excited to turn this passion into a career!  
 
-<!--
-**Ashes-rogue/Ashes-rogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me  
+- Currently confident in Python and HTML/CSS, but actively learning new computer languages.
+- I’ve built numerous small projects and love experimenting with new ideas.
+- Check out my collection of code snippets from 11th-12th grade on Wakelet: https://wakelet.com/@AshithaKK534 (switch to collections to see my work).
 
-Here are some ideas to get you started:
+# Skills & Tools  
+- **Languages**: Python (expanding to more soon)
+- **Interests**: Game creation, AI, automation, Deep Reinforcement Learning
+- **Currently Learning**: C++, C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- Email: ashiaki201306@gmail.com 
