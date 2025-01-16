@@ -7,9 +7,9 @@ I'm Ashes-rogue, and I've been passionate about coding since 7th grade. Although
 - Check out my collection of code snippets from 11th-12th grade on Wakelet: https://wakelet.com/@AshithaKK534 (switch to collections to see my work).
 
 ## Skills & Tools  
-- **Languages**: Python (expanding to more soon)
+- **Languages**: Python, CSS, HTML (expanding to more soon)
 - **Interests**: Game creation, AI, automation, Deep Reinforcement Learning
-- **Currently Learning**: C++, C
+- **Currently Learning**: C++, C, GDScript
 
 
 
